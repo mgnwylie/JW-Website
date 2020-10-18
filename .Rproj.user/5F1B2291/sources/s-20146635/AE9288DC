@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1603034865055.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AE9288DC",
+    "lastKnownWriteTime" : 1603034887,
+    "last_content_update" : 1603034887605,
+    "path" : "~/W-Personal/Josh-website/jw-website3/themes/hugo-business-frontpage-theme/i18n/en.yaml",
+    "project_path" : "themes/hugo-business-frontpage-theme/i18n/en.yaml",
+    "properties" : {
+        "cursorPosition" : "6,10",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}

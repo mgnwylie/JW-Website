@@ -58,9 +58,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [params.summary.description]
 
         [[params.summary.description.items]]
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A deserunt neque tempore recusandae animi soluta quasi? Asperiores rem dolore eaque vel, porro, soluta unde debitis aliquam laboriosam. Repellat explicabo, maiores!"
+        description = "I am a certified Master electrician with over ten years experience providing electrical serivces to both personal households and for commercial developments."
         [[params.summary.description.items]]
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis optio neque consectetur consequatur magni in nisi, natus beatae quidem quam odit commodi ducimus totam eum, alias, adipisci nesciunt voluptate. Voluptatum."
+        description = "I provide reliable and affordable services to people in Kingston and the Islands, with a flexible schedule depending on my clients needs and availability. Please call or email me for more information about my services."
 
 
         [params.summary.contact]
@@ -85,17 +85,17 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.projects.sections.rows.items]]
         title = "Pool"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus."
+        description = "Connected new pool to electrical source."
         url = "#"
         image = "project1.jpg"
         [[params.projects.sections.rows.items]]
         title = "Home electrical panel"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus totam ut praesentium aut."
+        description = "Replacing aged home electrical panels with new hardware."
         url = "#"
         image = "project2.jpg"
         [[params.projects.sections.rows.items]]
         title = "Residential lighting"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque."
+        description = "Replace and add new indoor lighting."
         url = "#"
         image = "project3.jpg"
 
