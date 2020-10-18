@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1603036148640.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "351F51A9",
+    "lastKnownWriteTime" : 1578903643,
+    "last_content_update" : 1578903643,
+    "path" : "~/W-Personal/Josh-website/jw-website3/themes/hugo-business-frontpage-theme/layouts/partials/summary.html",
+    "project_path" : "themes/hugo-business-frontpage-theme/layouts/partials/summary.html",
+    "properties" : {
+        "cursorPosition" : "9,77",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "html"
+}
