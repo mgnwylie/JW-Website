@@ -44,7 +44,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
     [params.header]
-        name = "Business Name or Tagline"
+        name = "J.W. Electrical"
         tagline = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non possimus ab labore provident mollitia. Id assumenda voluptate earum corporis facere quibusdam quisquam iste ipsa cumque unde nisi, totam quas ipsam."
 
 
@@ -81,13 +81,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "My work"
 
         [[params.projects.sections.rows]]
-        title = "My work"
+        # title = "My work"
 
         [[params.projects.sections.rows.items]]
         title = "Card title 1"
         description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus."
         url = "#"
-        image = "project1.png"
+        image = "image.png"
         [[params.projects.sections.rows.items]]
         title = "Card title 2"
         description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus totam ut praesentium aut."
