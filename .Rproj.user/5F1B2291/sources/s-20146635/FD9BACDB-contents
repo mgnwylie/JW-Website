@@ -53,7 +53,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
     [params.summary]
-        url = "#"
+        url = "www.google.com"
 
         [params.summary.description]
 
