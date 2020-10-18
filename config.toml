@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "https://jwelectrical.org/"
+baseURL = "https://jwelectrical.netlify.app/"
 languageCode = "en"
 title = "Business Frontpage - Start Bootstrap Template"
 theme = "hugo-business-frontpage-theme"
