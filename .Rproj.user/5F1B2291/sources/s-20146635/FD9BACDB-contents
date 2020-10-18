@@ -45,7 +45,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.header]
         name = "J.W. Electric"
-        tagline = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non possimus ab labore provident mollitia. Id assumenda voluptate earum corporis facere quibusdam quisquam iste ipsa cumque unde nisi, totam quas ipsam."
+        tagline = "Providing personal and commercial electrical services to Kingston and the Islands, Ontario."
 
 
 
