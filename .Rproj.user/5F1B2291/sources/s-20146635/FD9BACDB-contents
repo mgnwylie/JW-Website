@@ -21,22 +21,22 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
     [params.navbar]
-        name = "Start Bootstrap"
+        name = "J.W. Electric"
         url = "#"
 
         [[params.navbar.nav]]
-        current = true
-        name = "Home"
-        url = "#"
+        #current = true
+        #name = "Home"
+        #url = "#"
         [[params.navbar.nav]]
-        name = "About"
-        url = "#"
+        #name = "About"
+        #url = "#"
         [[params.navbar.nav]]
-        name = "Services"
-        url = "#"
+        #name = "Services"
+        #url = "#"
         [[params.navbar.nav]]
-        name = "Contact"
-        url = "#"
+        #name = "Contact"
+        #url = "#"
 
 
 
@@ -78,7 +78,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
     [params.projects]
 
         [[params.projects.sections]]
-        title = "My work"
+        #title = "My work"
 
         [[params.projects.sections.rows]]
         # title = "My work"
