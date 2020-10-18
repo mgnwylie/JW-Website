@@ -64,11 +64,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
         [params.summary.contact]
-        name = "Start Bootstrap"
-        address1 = "3481 Melrose Place"
-        address2 = "Beverly Hills, CA 90210"
-        phone = "(123) 456-7890"
-        email = "name@example.com"
+        name = "J.W. Electric"
+        #address1 = "3481 Melrose Place"
+        #address2 = "Beverly Hills, CA 90210"
+        phone = "(613) 561-3580"
+        email = "joshwylie99@outlook.com"
 
 
 
