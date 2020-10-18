@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1603032726963.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9BD4E66C",
+    "lastKnownWriteTime" : 1578903643,
+    "last_content_update" : 1578903643,
+    "path" : "~/W-Personal/Josh-website/jw-website3/themes/hugo-business-frontpage-theme/static/assets/vendor/bootstrap/css/bootstrap-grid.css",
+    "project_path" : "themes/hugo-business-frontpage-theme/static/assets/vendor/bootstrap/css/bootstrap-grid.css",
+    "properties" : {
+        "cursorPosition" : "18,10",
+        "scrollLine" : "10"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "css"
+}
