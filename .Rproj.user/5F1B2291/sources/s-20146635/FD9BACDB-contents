@@ -84,17 +84,17 @@ googleAnalytics = "UA-XXXXXXX-Y"
         # title = "My work"
 
         [[params.projects.sections.rows.items]]
-        title = "Card title 1"
+        title = "Pool"
         description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus."
         url = "#"
         image = "project1.jpg"
         [[params.projects.sections.rows.items]]
-        title = "Card title 2"
+        title = "Home electrical panel"
         description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus totam ut praesentium aut."
         url = "#"
         image = "project2.jpg"
         [[params.projects.sections.rows.items]]
-        title = "Card title 3"
+        title = "Residential lighting"
         description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque."
         url = "#"
         image = "project3.jpg"
