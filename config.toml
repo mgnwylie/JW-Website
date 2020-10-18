@@ -2,7 +2,7 @@
 
 baseURL = "https://jwelectrical.netlify.app/"
 languageCode = "en"
-title = "Business Frontpage - Start Bootstrap Template"
+title = "J.W. Electrical"
 theme = "hugo-business-frontpage-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 
@@ -78,80 +78,33 @@ googleAnalytics = "UA-XXXXXXX-Y"
     [params.projects]
 
         [[params.projects.sections]]
-        # title = "Section 1"
+        title = "My work"
 
         [[params.projects.sections.rows]]
-        # title = "Section 1, Row 1"
+        title = "My work"
 
         [[params.projects.sections.rows.items]]
         title = "Card title 1"
         description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus."
         url = "#"
-        # image = "image.png"
+        image = "project1.png"
         [[params.projects.sections.rows.items]]
         title = "Card title 2"
         description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus totam ut praesentium aut."
         url = "#"
-        # image = "image.png"
+        image = "project2.png"
         [[params.projects.sections.rows.items]]
         title = "Card title 3"
         description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque."
         url = "#"
-        # image = "image.png"
+        image = "project3.png"
 
-        [[params.projects.sections.rows]]
-        # title = "Section 1, Row 2"
-
-        [[params.projects.sections.rows.items]]
-        title = "Card title 4"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus."
-        url = "#"
-        # image = "image.png"
-        [[params.projects.sections.rows.items]]
-        title = "Card title 5"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus totam ut praesentium aut."
-        url = "#"
-        # image = "image.png"
-
-
-        [[params.projects.sections]]
-        # title = "Section 2"
-
-        [[params.projects.sections.rows]]
-        # title = "Section 2, Row 1"
-
-        [[params.projects.sections.rows.items]]
-        title = "Card title 1"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus."
-        url = "#"
-        # image = "image.png"
-        [[params.projects.sections.rows.items]]
-        title = "Card title 2"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus totam ut praesentium aut."
-        url = "#"
-        # image = "image.png"
-        [[params.projects.sections.rows.items]]
-        title = "Card title 3"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque."
-        url = "#"
-        # image = "image.png"
-
-        [[params.projects.sections.rows]]
-        # title = "Section 2, Row 2"
-
-        [[params.projects.sections.rows.items]]
-        title = "Card title 4"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus."
-        url = "#"
-        # image = "image.png"
-
-
-
+        
 
 
 
     [params.footer]
-        copyright = "Your Website"
+        copyright = "J.W. Electrical"
 
 
 
